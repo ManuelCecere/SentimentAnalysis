@@ -13,8 +13,8 @@ from sklearn.model_selection import GridSearchCV
 # csv_table=pd.read_table(tsv_file,sep='\t')
 # csv_table.to_csv('new_name.csv',index=False)
 
-datasetTrain = pd.read_csv('C:/Users/Manuel/Desktop/dataset/drugsComTrain_raw.csv', header=0, sep=',')
-datasetTest = pd.read_csv('C:/Users/Manuel/Desktop/dataset/drugsComTest_raw.csv', header=0, sep=',')
+datasetTrain = pd.read_csv('.../drugsComTrain_raw.csv', header=0, sep=',')
+datasetTest = pd.read_csv('.../drugsComTest_raw.csv', header=0, sep=',')
 
 # deriving the three level polarity lables
 for r in range(datasetTrain.shape[0]):
