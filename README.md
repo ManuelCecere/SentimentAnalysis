@@ -1,8 +1,10 @@
 # SentimentAnalysis
 Sentiment analysis performed on drugs reviews using the Perceptron Algorithm.
-More information about this project can be found in the report.
 
-I've uploaded the project's source file. It should be enough modify the directories where necessary. Here's the dataset link http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+It should be enough to modify the directories where necessary, more information about this project can be found in the report. Here's the dataset link http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29.
+
+Libraries used:
+Scikit-learn,Pandas,Numpy
 
 References:
 
