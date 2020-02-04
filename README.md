@@ -3,9 +3,6 @@ Sentiment analysis performed on drugs reviews using the Perceptron Algorithm.
 
 It should be enough to modify the directories where necessary, more information about this project can be found in the report. Here's the dataset link http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29.
 
-Libraries used:
-Scikit-learn,Pandas,Numpy
-
 References:
 
 http://kdd.cs.ksu.edu/Publications/Student/kallumadi2018aspect.pdf
